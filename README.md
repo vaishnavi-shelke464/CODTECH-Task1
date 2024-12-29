@@ -1,12 +1,20 @@
 Name: VAISHNAVI SHELKE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT2WDS101
+
 Domain: Front-End Devlopment
+
+
 Duration: December to March 2025
-Mentor: 
-Mentor:Neela Kumar 
+ 
+Mentor:Neela Kumar
+
 project Overview:
+
 project: Personal Portfolio
+
 This portfolio website is a comprehensive and professional showcase of your skills, experiences, and projects as a frontend developer. It is designed with a modern, responsive layout and organized sections for easy navigation, ensuring a seamless user experience.
 
 Key Features
